@@ -1,16 +1,3 @@
-D:\OneDrive - Prince of Songkla University\เอกสาร\conceptual_VS.py
-
-"C:\Users\sherif.s>pip install streamlit
-'pip' is not recognized as an internal or external command,
-operable program or batch file.
-
-C:\Users\sherif.s>
-
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 #!/usr/bin/env python
 # coding: utf-8
 
